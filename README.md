@@ -3,3 +3,12 @@
 JSONs of metro stations and lines.
 ## Available cities
 - Moscow
+### Usage
+>>>
+> npm i metrostations
+>>>
+and then in the code, i.e:
+>>>
+> import {Moscow} from 'metrostations' <br />
+> const MoscowStations = Moscow.stations
+>>>
