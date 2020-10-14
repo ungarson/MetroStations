@@ -1,8 +1,8 @@
 module.exports = {
     Lines: {
-        Moscow: JSON.parse(require('./Moscow/Lines/index.json'))
+        Moscow: require('./Moscow/Lines/index.json').lines
     },
     Stations: {
-        Moscow: JSON.parse(require('./Moscow/Stations/index.json'))
+        Moscow: require('./Moscow/Stations/index.json').stations
     }
 }

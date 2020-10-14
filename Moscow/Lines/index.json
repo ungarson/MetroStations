@@ -1,86 +1,88 @@
-[
-  {
-    "local_name": "Сокольническая",
-    "intl_name": "Sokolnicheskaya",
-    "color": "#cf2028",
-    "id": 1
-  },
-  {
-    "local_name": "Замоскворецкая",
-    "intl_name": "Zamoskvoretskaya",
-    "color": "#13703a",
-    "id": 2
-  },
-  {
-    "local_name": "Арбатско-Покровская",
-    "intl_name": "Arbatsko–Pokrovskaya",
-    "color": "#283981",
-    "id": 3
-  },
-  {
-    "local_name": "Филёвская",
-    "intl_name": "Filyovskaya",
-    "color": "#169cd4",
-    "id": 4
-  },
-  {
-    "local_name": "Кольцевая",
-    "intl_name": "Koltsevaya",
-    "color": "#8a3127",
-    "id": 5
-  },
-  {
-    "local_name": "Калужско-Рижская",
-    "intl_name": "Kaluzhsko–Rizhskaya",
-    "color": "#f78e38",
-    "id": 6
-  },
-  {
-    "local_name": "Таганско-Краснопресненская",
-    "intl_name": "Tagansko–Krasnopresnenskaya",
-    "color": "#a35d94",
-    "id": 7
-  },
-  {
-    "local_name": "Калининско-Солнцевская",
-    "intl_name": "Kalininsko–Solntsevskaya",
-    "color": "#FFD801",
-    "id": 8
-  },
-  {
-    "local_name": "Серпуховско-Тимирязевская",
-    "intl_name": "Serpukhovsko–Timiryazevskaya",
-    "color": "#999999",
-    "id": 9
-  },
-  {
-    "local_name": "Люблинско-Дмитровская",
-    "intl_name": "Lyublinsko–Dmitrovskaya",
-    "color": "#9BCE01",
-    "id": 10
-  },
-  {
-    "local_name": "Большая Кольцевая",
-    "intl_name": "Bolshaya Koltsevaya",
-    "color": "#83C1C1",
-    "id": 11
-  },
-  {
-    "local_name": "Бутовская",
-    "intl_name": "Butovskaya",
-    "color": "#A2B4D5",
-    "id": 12
-  },
-  {
-    "local_name": "Московское центральное кольцо",
-    "intl_name": "Moscow Central Circle",
-    "color": "#ED2821",
-    "id": 14
-  },
-  {
-    "local_name": "Некрасовская",
-    "intl_name": "Nekrasovskaya",
-    "color": "#DF64A2",
-    "id": 15
-  }
-]
+{
+  "lines": [
+    {
+      "local_name": "Сокольническая",
+      "intl_name": "Sokolnicheskaya",
+      "color": "#cf2028",
+      "id": 1
+    },
+    {
+      "local_name": "Замоскворецкая",
+      "intl_name": "Zamoskvoretskaya",
+      "color": "#13703a",
+      "id": 2
+    },
+    {
+      "local_name": "Арбатско-Покровская",
+      "intl_name": "Arbatsko–Pokrovskaya",
+      "color": "#283981",
+      "id": 3
+    },
+    {
+      "local_name": "Филёвская",
+      "intl_name": "Filyovskaya",
+      "color": "#169cd4",
+      "id": 4
+    },
+    {
+      "local_name": "Кольцевая",
+      "intl_name": "Koltsevaya",
+      "color": "#8a3127",
+      "id": 5
+    },
+    {
+      "local_name": "Калужско-Рижская",
+      "intl_name": "Kaluzhsko–Rizhskaya",
+      "color": "#f78e38",
+      "id": 6
+    },
+    {
+      "local_name": "Таганско-Краснопресненская",
+      "intl_name": "Tagansko–Krasnopresnenskaya",
+      "color": "#a35d94",
+      "id": 7
+    },
+    {
+      "local_name": "Калининско-Солнцевская",
+      "intl_name": "Kalininsko–Solntsevskaya",
+      "color": "#FFD801",
+      "id": 8
+    },
+    {
+      "local_name": "Серпуховско-Тимирязевская",
+      "intl_name": "Serpukhovsko–Timiryazevskaya",
+      "color": "#999999",
+      "id": 9
+    },
+    {
+      "local_name": "Люблинско-Дмитровская",
+      "intl_name": "Lyublinsko–Dmitrovskaya",
+      "color": "#9BCE01",
+      "id": 10
+    },
+    {
+      "local_name": "Большая Кольцевая",
+      "intl_name": "Bolshaya Koltsevaya",
+      "color": "#83C1C1",
+      "id": 11
+    },
+    {
+      "local_name": "Бутовская",
+      "intl_name": "Butovskaya",
+      "color": "#A2B4D5",
+      "id": 12
+    },
+    {
+      "local_name": "Московское центральное кольцо",
+      "intl_name": "Moscow Central Circle",
+      "color": "#ED2821",
+      "id": 14
+    },
+    {
+      "local_name": "Некрасовская",
+      "intl_name": "Nekrasovskaya",
+      "color": "#DF64A2",
+      "id": 15
+    }
+  ]
+}
