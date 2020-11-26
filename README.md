@@ -48,7 +48,6 @@ So, in the case of Moscow we don't include neither monorail nor MCD.
 > const MoscowStations = Moscow.stations <br />
 > const MoscowLines = Moscow.lines
 
-<br>
 <h2 id="work-in-progress">Work in progress</h2>
 Except the <a href="#cities-in-progress">cities in progress</a> part, 
 we also neeed to write tests: <br>
@@ -56,7 +55,6 @@ we also neeed to write tests: <br>
 <li>To check whether two stations intersect correctly</li>
 <li>To check whether two lines intersect correctly</li>
 </ol>
-<br>
 <h2 id="anything-missing">Anything missing?</h2>
 In case we forgot some station or a line, or if you noticed some inappropriate behavior,
 create <a href="https://github.com/ungarson/MetroStations/issues">new issue</a>
