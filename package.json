@@ -1,6 +1,6 @@
 {
   "name": "metrostations",
-  "version": "4.1.4",
+  "version": "4.1.5",
   "description": "JSONs of metro stations and lines.",
   "main": "index.js",
   "scripts": {
@@ -25,7 +25,12 @@
     "metro",
     "moscow",
     "metropolitan",
-    "jsons"
+    "jsons",
+    "beijing",
+    "tokyo",
+    "shanghai",
+    "seoul",
+    "guangzhou"
   ],
   "author": "ungarson",
   "license": "MIT",

@@ -49,7 +49,7 @@ So, in the case of Moscow we don't include neither monorail nor MCD.
 
 <br>
 <h2 id="anything-missing">Anything missing?</h2>
-In case we forget some station or a line, or you noticed some inappropriate behaviour,
+In case we forgot some station or a line, or if you noticed some inappropriate behavior,
 create <a href="https://github.com/ungarson/MetroStations/issues">new issue</a>
 <br>
 <br>
