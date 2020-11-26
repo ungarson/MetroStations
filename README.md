@@ -2,7 +2,7 @@
 # Metro Stations
 JSONs of metro stations and lines.
 
-### Content:
+<h2>Content:</h2>
 1. [What you can do](#what-you-can-do)
 2. [Available cities](#available-cities)
 3. [Usage](#usage)
@@ -25,16 +25,26 @@ which is not really a part of Metro system,
 and they also have MCD, which is also not really a part of the metro system. <br>
 So, in the case of Moscow we don't include neither monorail nor MCD.
 <h2 id="available-cities">Available cities</h2>
-- Moscow
+<ul>
+<li>Moscow</li>
+<li>Saint-Petersburg</li>
+</ul>
+<h2 id="cities-in-progress">Cities in progress</h2>
+<ul>
+<li>Beijing</li>
+<li>Tokyo</li>
+<li>Shanghai</li>
+<li>Seoul</li>
+<li>Guangzhou</li>
+</ul>
 
 <h2 id="usage">Usage</h2>
 
 > npm i metrostations
 
-and then use it in the code:
-
 > import {Moscow} from 'metrostations' <br />
 > const MoscowStations = Moscow.stations
+> const MoscowLines = Moscow.lines
 
 <h2 id="anything-missing">Anything missing?</h2>
 In case we forget some station or a line, or you noticed some inappropriate behaviour,
