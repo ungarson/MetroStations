@@ -13,8 +13,8 @@ Why almost all the lines and stations?
 
 For example, let's consider the Moscow case: they have monorail,
 which is not really a part of Metro system, 
-and they also have MCD, which is also not really a part of the metro system.
-So, almost.
+and they also have MCD, which is also not really a part of the metro system. <br>
+So, in the case of Moscow we don't include neither monorail nor MCD.
 ### Available cities
 - Moscow
 ### Usage
