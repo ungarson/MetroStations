@@ -8,7 +8,7 @@ JSONs of metro stations and lines.
 3. [Usage](#usage)
 4. [Anything missing?](#anything-missing)
 
-<h3 id="what-you-can-do">What you can do</h3>
+<h2 id="what-you-can-do">What you can do</h2>
 <ul>
 <li>Get list of almost all the lines</li>
 <li>Get list of almost all the stations</li>
@@ -24,10 +24,10 @@ For example, let's consider the Moscow case: they have monorail,
 which is not really a part of Metro system, 
 and they also have MCD, which is also not really a part of the metro system. <br>
 So, in the case of Moscow we don't include neither monorail nor MCD.
-<h3 id="available-cities">Available cities</h3>
+<h2 id="available-cities">Available cities</h2>
 - Moscow
 
-<h3 id="usage">Usage</h3>
+<h2 id="usage">Usage</h2>
 
 > npm i metrostations
 
@@ -36,7 +36,7 @@ and then use it in the code:
 > import {Moscow} from 'metrostations' <br />
 > const MoscowStations = Moscow.stations
 
-<h3 id="anything-missing">Anything missing?</h3>
+<h2 id="anything-missing">Anything missing?</h2>
 In case we forget some station or a line, or you noticed some inappropriate behaviour,
 create <a href="https://github.com/ungarson/MetroStations/issues">new issue</a>
 <br>
