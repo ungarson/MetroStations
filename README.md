@@ -19,8 +19,8 @@ So, almost.
 - Moscow
 ### Usage
 > npm i metrostations
->
+
 and then use it in the code:
+
 > import {Moscow} from 'metrostations' <br />
 > const MoscowStations = Moscow.stations
->
