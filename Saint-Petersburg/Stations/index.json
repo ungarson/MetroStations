@@ -1,0 +1,1017 @@
+[
+  {
+    "local_name":"Девяткино",
+    "geo_lat":"60.0503",
+    "geo_lon":"30.4422",
+    "line":1,
+    "id":1,
+    "intl_name":"Devyatkino",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Гражданский проспект",
+    "geo_lat":"60.0350",
+    "geo_lon":"30.4181",
+    "line":1,
+    "id":2,
+    "intl_name":"Grajdanskii prospekt",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Академическая",
+    "geo_lat":"60.0125",
+    "geo_lon":"30.3958",
+    "line":1,
+    "id":3,
+    "intl_name":"Akademicheskaya",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Политехническая",
+    "geo_lat":"60.0086",
+    "geo_lon":"30.3708",
+    "line":1,
+    "id":4,
+    "intl_name":"Politehnicheskaya",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Площадь Мужества",
+    "geo_lat":"59.9997",
+    "geo_lon":"30.3667",
+    "line":1,
+    "id":5,
+    "intl_name":"Ploshchad Mujestva",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Лесная",
+    "geo_lat":"59.9847",
+    "geo_lon":"30.3442",
+    "line":1,
+    "id":6,
+    "intl_name":"Lesnaya",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Выборгская",
+    "geo_lat":"59.9711",
+    "geo_lon":"30.3475",
+    "line":1,
+    "id":7,
+    "intl_name":"Vyborgskaya",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Площадь Ленина",
+    "geo_lat":"59.9556",
+    "geo_lon":"30.3558",
+    "line":1,
+    "id":8,
+    "intl_name":"Ploshchad Lenina",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Чернышевская",
+    "geo_lat":"59.9444",
+    "geo_lon":"30.3597",
+    "line":1,
+    "id":9,
+    "intl_name":"CHernyshevskaya",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Площадь Восстания",
+    "geo_lat":"59.9311",
+    "geo_lon":"30.3606",
+    "line":1,
+    "id":10,
+    "intl_name":"Ploshchad Vosstaniya",
+    "lineTransfers":[
+      3
+    ],
+    "stationTransfers":[
+      236
+    ]
+  },
+  {
+    "local_name":"Владимирская",
+    "geo_lat":"59.9275",
+    "geo_lon":"30.3478",
+    "line":1,
+    "id":11,
+    "intl_name":"Vladimirskaya",
+    "lineTransfers":[
+      4
+    ],
+    "stationTransfers":[
+      51
+    ]
+  },
+  {
+    "local_name":"Пушкинская",
+    "geo_lat":"59.9203",
+    "geo_lon":"30.3297",
+    "line":1,
+    "id":12,
+    "intl_name":"Pushkinskaya",
+    "lineTransfers":[
+      5
+    ],
+    "stationTransfers":[
+      65
+    ]
+  },
+  {
+    "local_name":"Технологический институт-1",
+    "geo_lat":"59.9164",
+    "geo_lon":"30.3183",
+    "line":1,
+    "id":13,
+    "intl_name":"Tehnologicheskii institut-1",
+    "lineTransfers":[
+      2
+    ],
+    "stationTransfers":[
+      30
+    ]
+  },
+  {
+    "local_name":"Балтийская",
+    "geo_lat":"59.9072",
+    "geo_lon":"30.2994",
+    "line":1,
+    "id":14,
+    "intl_name":"Baltiiskaya",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Нарвская",
+    "geo_lat":"59.9008",
+    "geo_lon":"30.2747",
+    "line":1,
+    "id":15,
+    "intl_name":"Narvskaya",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Кировский завод",
+    "geo_lat":"59.8794",
+    "geo_lon":"30.2617",
+    "line":1,
+    "id":16,
+    "intl_name":"Kirovskii zavod",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Автово",
+    "geo_lat":"59.8672",
+    "geo_lon":"30.2614",
+    "line":1,
+    "id":17,
+    "intl_name":"Avtovo",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Ленинский проспект",
+    "geo_lat":"59.8517",
+    "geo_lon":"30.2681",
+    "line":1,
+    "id":18,
+    "intl_name":"Leninskii prospekt",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Проспект Ветеранов",
+    "geo_lat":"59.8417",
+    "geo_lon":"30.2517",
+    "line":1,
+    "id":19,
+    "intl_name":"Prospekt Veteranov",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Парнас",
+    "geo_lat":"60.0669",
+    "geo_lon":"30.3339",
+    "line":2,
+    "id":20,
+    "intl_name":"Parnas",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Проспект Просвещения",
+    "geo_lat":"60.0514",
+    "geo_lon":"30.3322",
+    "line":2,
+    "id":21,
+    "intl_name":"Prospekt Prosveshcheniya",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Озерки",
+    "geo_lat":"60.0369",
+    "geo_lon":"30.3214",
+    "line":2,
+    "id":22,
+    "intl_name":"Ozerki",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Удельная",
+    "geo_lat":"60.0167",
+    "geo_lon":"30.3156",
+    "line":2,
+    "id":23,
+    "intl_name":"Udelnaya",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Пионерская",
+    "geo_lat":"60.0025",
+    "geo_lon":"30.2967",
+    "line":2,
+    "id":24,
+    "intl_name":"Pionerskaya",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Чёрная речка",
+    "geo_lat":"59.9850",
+    "geo_lon":"30.3011",
+    "line":2,
+    "id":25,
+    "intl_name":"CHernaya rechka",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Петроградская",
+    "geo_lat":"59.9661",
+    "geo_lon":"30.3117",
+    "line":2,
+    "id":26,
+    "intl_name":"Petrogradskaya",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Горьковская",
+    "geo_lat":"59.9561",
+    "geo_lon":"30.3186",
+    "line":2,
+    "id":27,
+    "intl_name":"Gorkovskaya",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Невский проспект",
+    "geo_lat":"59.9350",
+    "geo_lon":"30.3283",
+    "line":2,
+    "id":28,
+    "intl_name":"Nevskii prospekt",
+    "lineTransfers":[
+      4,
+      5
+    ],
+    "stationTransfers":[
+      42,
+      64
+    ]
+  },
+  {
+    "local_name":"Сенная площадь",
+    "geo_lat":"59.9269",
+    "geo_lon":"30.3203",
+    "line":2,
+    "id":29,
+    "intl_name":"Sennaya ploshchad",
+    "lineTransfers":[
+      4,
+      5
+    ],
+    "stationTransfers":[
+      50
+    ]
+  },
+  {
+    "local_name":"Технологический институт-2",
+    "geo_lat":"59.9164",
+    "geo_lon":"30.3183",
+    "line":2,
+    "id":30,
+    "intl_name":"Tehnologicheskii institut-2",
+    "lineTransfers":[
+      1
+    ],
+    "stationTransfers":[
+      13
+    ]
+  },
+  {
+    "local_name":"Фрунзенская",
+    "geo_lat":"59.9061",
+    "geo_lon":"30.3172",
+    "line":2,
+    "id":31,
+    "intl_name":"Frunzenskaya",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Московские ворота",
+    "geo_lat":"59.8914",
+    "geo_lon":"30.3178",
+    "line":2,
+    "id":32,
+    "intl_name":"Moskovskie vorota",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Электросила",
+    "geo_lat":"59.8789",
+    "geo_lon":"30.3186",
+    "line":2,
+    "id":33,
+    "intl_name":"Elektrosila",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Парк Победы",
+    "geo_lat":"59.8664",
+    "geo_lon":"30.3217",
+    "line":2,
+    "id":34,
+    "intl_name":"Park Pobedy",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Московская",
+    "geo_lat":"59.8519",
+    "geo_lon":"30.3219",
+    "line":2,
+    "id":35,
+    "intl_name":"Moskovskaya",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Звёздная",
+    "geo_lat":"59.8331",
+    "geo_lon":"30.3494",
+    "line":2,
+    "id":36,
+    "intl_name":"Zvezdnaya",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Купчино",
+    "geo_lat":"59.8294",
+    "geo_lon":"30.3753",
+    "line":2,
+    "id":37,
+    "intl_name":"Kupchino",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Беговая",
+    "geo_lat":"59.9872",
+    "geo_lon":"30.2022",
+    "line":3,
+    "id":38,
+    "intl_name":"Begovaya",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Зенит",
+    "geo_lat":"59.9722",
+    "geo_lon":"30.2117",
+    "line":3,
+    "id":39,
+    "intl_name":"Zenit",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Приморская",
+    "geo_lat":"59.9483",
+    "geo_lon":"30.2342",
+    "line":3,
+    "id":40,
+    "intl_name":"Primorskaya",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Василеостровская",
+    "geo_lat":"59.9425",
+    "geo_lon":"30.2781",
+    "line":3,
+    "id":41,
+    "intl_name":"Vasileostrovskaya",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Гостиный двор",
+    "geo_lat":"59.9336",
+    "geo_lon":"30.3328",
+    "line":3,
+    "id":42,
+    "intl_name":"Gostinyi dvor",
+    "lineTransfers":[
+      2
+    ],
+    "stationTransfers":[
+      28
+    ]
+  },
+  {
+    "local_name":"Маяковская",
+    "geo_lat":"59.9314",
+    "geo_lon":"30.3547",
+    "line":3,
+    "id":43,
+    "intl_name":"Mayakovskaya",
+    "lineTransfers":[
+      1
+    ],
+    "stationTransfers":[
+      10
+    ]
+  },
+  {
+    "local_name":"Площадь Александра Невского-1",
+    "geo_lat":"59.9242",
+    "geo_lon":"30.3858",
+    "line":3,
+    "id":44,
+    "intl_name":"Ploshchad Aleksandra Nevskogo-1",
+    "lineTransfers":[
+      4
+    ],
+    "stationTransfers":[
+      53
+    ]
+  },
+  {
+    "local_name":"Елизаровская",
+    "geo_lat":"59.8967",
+    "geo_lon":"30.4233",
+    "line":3,
+    "id":45,
+    "intl_name":"Elizarovskaya",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Ломоносовская",
+    "geo_lat":"59.8772",
+    "geo_lon":"30.4417",
+    "line":3,
+    "id":46,
+    "intl_name":"Lomonosovskaya",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Пролетарская",
+    "geo_lat":"59.8650",
+    "geo_lon":"30.4700",
+    "line":3,
+    "id":47,
+    "intl_name":"Proletarskaya",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Обухово",
+    "geo_lat":"59.8486",
+    "geo_lon":"30.4575",
+    "line":3,
+    "id":48,
+    "intl_name":"Obuhovo",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Рыбацкое",
+    "geo_lat":"59.8308",
+    "geo_lon":"30.5000",
+    "line":3,
+    "id":49,
+    "intl_name":"Rybackoe",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Спасская",
+    "geo_lat":"59.9267",
+    "geo_lon":"30.3194",
+    "line":4,
+    "id":50,
+    "intl_name":"Spasskaya",
+    "lineTransfers":[
+      2,
+      3
+    ],
+    "stationTransfers":[
+      28,
+      64
+    ]
+  },
+  {
+    "local_name":"Достоевская",
+    "geo_lat":"59.9281",
+    "geo_lon":"30.3461",
+    "line":4,
+    "id":51,
+    "intl_name":"Dostoevskaya",
+    "lineTransfers":[
+      1
+    ],
+    "stationTransfers":[
+      11
+    ]
+  },
+  {
+    "local_name":"Лиговский проспект",
+    "geo_lat":"59.9206",
+    "geo_lon":"30.3547",
+    "line":4,
+    "id":52,
+    "intl_name":"Ligovskii prospekt",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Площадь Александра Невского-2",
+    "geo_lat":"59.9233",
+    "geo_lon":"30.3833",
+    "line":4,
+    "id":53,
+    "intl_name":"Ploshchad Aleksandra Nevskogo-2",
+    "lineTransfers":[
+      3
+    ],
+    "stationTransfers":[
+      44
+    ]
+  },
+  {
+    "local_name":"Новочеркасская",
+    "geo_lat":"59.9289",
+    "geo_lon":"30.4117",
+    "line":4,
+    "id":54,
+    "intl_name":"Novocherkasskaya",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Ладожская",
+    "geo_lat":"59.9322",
+    "geo_lon":"30.4389",
+    "line":4,
+    "id":55,
+    "intl_name":"Ladojskaya",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Проспект Большевиков",
+    "geo_lat":"59.9197",
+    "geo_lon":"30.4664",
+    "line":4,
+    "id":56,
+    "intl_name":"Prospekt Bolshevikov",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Улица Дыбенко",
+    "geo_lat":"59.9072",
+    "geo_lon":"30.4831",
+    "line":4,
+    "id":57,
+    "intl_name":"Ulica Dybenko",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Комендантский проспект",
+    "geo_lat":"60.0083",
+    "geo_lon":"30.2586",
+    "line":5,
+    "id":58,
+    "intl_name":"Komendantskii prospekt",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Старая Деревня",
+    "geo_lat":"59.9892",
+    "geo_lon":"30.2550",
+    "line":5,
+    "id":59,
+    "intl_name":"Staraya Derevnya",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Крестовский остров",
+    "geo_lat":"59.9717",
+    "geo_lon":"30.2594",
+    "line":5,
+    "id":60,
+    "intl_name":"Krestovskii ostrov",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Чкаловская",
+    "geo_lat":"59.9608",
+    "geo_lon":"30.2919",
+    "line":5,
+    "id":61,
+    "intl_name":"CHkalovskaya",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Спортивная",
+    "geo_lat":"59.9503",
+    "geo_lon":"30.2881",
+    "line":5,
+    "id":62,
+    "intl_name":"Sportivnaya",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Адмиралтейская",
+    "geo_lat":"59.9358",
+    "geo_lon":"30.3150",
+    "line":5,
+    "id":63,
+    "intl_name":"Admiralteiskaya",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Садовая",
+    "geo_lat":"59.9264",
+    "geo_lon":"30.3172",
+    "line":5,
+    "id":64,
+    "intl_name":"Sadovaya",
+    "lineTransfers":[
+      2,
+      4
+    ],
+    "stationTransfers":[
+      28,
+      50
+    ]
+  },
+  {
+    "local_name":"Звенигородская",
+    "geo_lat":"59.9222",
+    "geo_lon":"30.3356",
+    "line":5,
+    "id":65,
+    "intl_name":"Zvenigorodskaya",
+    "lineTransfers":[
+      1
+    ],
+    "stationTransfers":[
+      12
+    ]
+  },
+  {
+    "local_name":"Обводный канал",
+    "geo_lat":"59.9144",
+    "geo_lon":"30.3494",
+    "line":5,
+    "id":66,
+    "intl_name":"Obvodnyi kanal",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Волковская",
+    "geo_lat":"59.8958",
+    "geo_lon":"30.3578",
+    "line":5,
+    "id":67,
+    "intl_name":"Volkovskaya",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Бухарестская",
+    "geo_lat":"59.8839",
+    "geo_lon":"30.3686",
+    "line":5,
+    "id":68,
+    "intl_name":"Buharestskaya",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Международная",
+    "geo_lat":"59.8703",
+    "geo_lon":"30.3789",
+    "line":5,
+    "id":69,
+    "intl_name":"Mejdunarodnaya",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Проспект Славы",
+    "geo_lat":"59.8569",
+    "geo_lon":"30.3947",
+    "line":5,
+    "id":70,
+    "intl_name":"Prospekt Slavy",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Дунайская",
+    "geo_lat":"59.8397",
+    "geo_lon":"30.4111",
+    "line":5,
+    "id":71,
+    "intl_name":"Dunaiskaya",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  },
+  {
+    "local_name":"Шушары",
+    "geo_lat":"59.8200",
+    "geo_lon":"30.4328",
+    "line":5,
+    "id":72,
+    "intl_name":"SHushary",
+    "lineTransfers":[
+
+    ],
+    "stationTransfers":[
+
+    ]
+  }
+]

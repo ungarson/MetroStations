@@ -9,12 +9,14 @@ JSONs of metro stations and lines.
 4. [Anything missing?](#anything-missing)
 
 <h3 id="what-you-can-do">What you can do</h3>
-- Get list of almost all the lines
-- Get list of almost all the stations
-- Get latitude and longitude of available stations
-- Get the color of a line
-- Check whether two selected stations intersect
-- Check whether two selected lines intersect
+<ul>
+<li>Get list of almost all the lines</li>
+<li>Get list of almost all the stations</li>
+<li>Get latitude and longitude of available stations</li>
+<li>Get the color of a line</li>
+<li>Check whether two selected stations intersect</li>
+<li>Check whether two selected lines intersect</li>
+</ul>
 
 Why almost all the lines and stations? 
 
@@ -36,9 +38,9 @@ and then use it in the code:
 
 <h3 id="anything-missing">Anything missing?</h3>
 In case we forget some station or a line, or you noticed some inappropriate behaviour,
-create [new issue](https://github.com/ungarson/MetroStations/issues)
+create <a href="https://github.com/ungarson/MetroStations/issues">new issue</a>
 <br>
 <br>
 You can also DM the Founder: <br>
-- Telegram: [@ungarson](https://t.me/ungarson) <br>
-- Instagram: [@daniilorain](https://www.instagram.com/daniilorain/)
+- Telegram: <a href="https://t.me/ungarson">@ungarson</a><br>
+- Instagram: <a href="https://www.instagram.com/daniilorain/">@daniilorain</a>

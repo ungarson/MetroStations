@@ -1,6 +1,6 @@
 {
   "name": "metrostations",
-  "version": "4.0.6",
+  "version": "4.1.0",
   "description": "JSONs of metro stations and lines.",
   "main": "index.js",
   "scripts": {
@@ -18,6 +18,10 @@
     "of",
     "metro",
     "moscow",
+    "saint-petersburg metro",
+    "saint-petersburg",
+    "peterburg metro",
+    "peterburg",
     "metro",
     "moscow",
     "metropolitan",
