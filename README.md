@@ -43,9 +43,10 @@ So, in the case of Moscow we don't include neither monorail nor MCD.
 > npm i metrostations
 
 > import {Moscow} from 'metrostations' <br />
-> const MoscowStations = Moscow.stations
+> const MoscowStations = Moscow.stations <br />
 > const MoscowLines = Moscow.lines
 
+<br>
 <h2 id="anything-missing">Anything missing?</h2>
 In case we forget some station or a line, or you noticed some inappropriate behaviour,
 create <a href="https://github.com/ungarson/MetroStations/issues">new issue</a>
