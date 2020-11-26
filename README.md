@@ -35,9 +35,10 @@ and then use it in the code:
 > const MoscowStations = Moscow.stations
 
 <h3 id="anything-missing">Anything missing?</h3>
-In case we forget some station or a line, or you noticed some inappropriate behaviour, create [new issue](https://github.com/ungarson/MetroStations/issues).
+In case we forget some station or a line, or you noticed some inappropriate behaviour,
+create [new issue](https://github.com/ungarson/MetroStations/issues)
 <br>
 <br>
-You can also DM the Founder:
-- Telegram: [@ungarson](https://t.me/ungarson)
+You can also DM the Founder: <br>
+- Telegram: [@ungarson](https://t.me/ungarson) <br>
 - Instagram: [@daniilorain](https://www.instagram.com/daniilorain/)
