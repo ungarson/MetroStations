@@ -1,7 +1,23 @@
 <img src="https://i.ibb.co/WnD42Vy/metrostations.png" width="200" alt="metrostations" border="0"></img>
 # Metro Stations
 JSONs of metro stations and lines.
-## Available cities
+### What you can do:
+>
+- Get list of almost all the lines
+- Get list of almost all the stations
+>
+Why almost? 
+>
+For example, let's consider the Moscow case: they have monorail,
+which is not really a part of Metro system, 
+and they also have MCD, which is also not really a part of the metro system.
+So, almost.
+>
+- Get latitude and longitude of available stations
+- Get the color of a line
+- Check whether two selected stations intersect
+- Check whether two selected lines intersect
+### Available cities
 - Moscow
 ### Usage
 > npm i metrostations
@@ -9,3 +25,4 @@ JSONs of metro stations and lines.
 and then use it in the code:
 > import {Moscow} from 'metrostations' <br />
 > const MoscowStations = Moscow.stations
+>
