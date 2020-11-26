@@ -5,6 +5,7 @@ JSONs of metro stations and lines.
 <h2>Content:</h2>
 1. [What you can do](#what-you-can-do)
 2. [Available cities](#available-cities)
+3. [Cities in progress](#cities-in-progress)
 3. [Usage](#usage)
 4. [Anything missing?](#anything-missing)
 
