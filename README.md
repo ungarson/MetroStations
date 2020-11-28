@@ -55,6 +55,11 @@ we also neeed to write tests: <br>
 <li>To check whether two stations intersect correctly</li>
 <li>To check whether two lines intersect correctly</li>
 </ol>
+Also:
+<ol>
+<li>Write a function to get a station by its name/geoposition in each city module</li>
+<li>Write a function to get a line by its name/color in each city module</li>
+</ol>
 <h2 id="anything-missing">Anything missing?</h2>
 In case we forgot some station or a line, or if you noticed some inappropriate behavior,
 create <a href="https://github.com/ungarson/MetroStations/issues">new issue</a>
