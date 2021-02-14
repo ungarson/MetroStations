@@ -43,6 +43,7 @@ So, in the case of Moscow we don't include neither monorail nor MCD.
 
 <h2 id="docs">Docs:</h2>
 <h3> Stations: </h3>
+
 `Stations` is an array of objects with information about stations.
 
 Fields in the very next table exist in every stations' json.
