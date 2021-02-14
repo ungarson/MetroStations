@@ -10,7 +10,7 @@ JSONs of metro stations and lines.
 4. <a href="#work-in-progress">Work in progress</a> <br>
 5. <a href="#anything-missing">Anything missing?</a>
 
-<h2 id="what-you-can-do">What you can do</h2>
+<h2 id="what-you-can-do">What you can do:</h2>
 <ul>
 <li>Get list of almost all the lines</li>
 <li>Get list of almost all the stations</li>
@@ -26,12 +26,12 @@ For example, let's consider the Moscow case: they have monorail,
 which is not really a part of Metro system, 
 and they also have MCD, which is also not really a part of the metro system. <br>
 So, in the case of Moscow we don't include neither monorail nor MCD.
-<h2 id="available-cities">Available cities</h2>
+<h2 id="available-cities">Available cities:</h2>
 <ul>
 <li>Moscow</li>
 <li>Saint-Petersburg</li>
 </ul>
-<h2 id="cities-in-progress">Cities in progress</h2>
+<h2 id="cities-in-progress">Cities in progress:</h2>
 <ul>
 <li>Beijing</li>
 <li>Tokyo</li>
@@ -40,15 +40,56 @@ So, in the case of Moscow we don't include neither monorail nor MCD.
 <li>Guangzhou</li>
 </ul>
 
-<h2 id="usage">Usage</h2>
+<h2 id="docs">Docs:</h2>
+<h3> Stations: </h3>
+`Stations` is an array of objects with information about stations.
+
+Fields in the very next table exist in every stations' json.
+
+| Fields | Value | Meaning |
+| ------------- | ------------- | ------------- |
+| local_name  | String  | Local name of the station |
+| geo_lat | String  | Latitude position |
+| geo_lon | String  | Longitude position |
+| line  | Number  | ID of the line |
+| id | Number | ID of the station |
+| intl_name | String | Name of the station in English |
+| lineTransfers | Array\<Number> | Array with lines' IDs with which the station has the intersection |
+| stationTransfers | Array\<Number> | Array with stations' IDs with which the station has the intersection |
+
+Fields in the very next table exist only is some stations' json.
+
+| Fields | Value | Meaning |
+| ------------- | ------------- | ------------- |
+| grade | Underground &#124; Elevated &#124; At-grade | Station's grade |
+| platform_type | String | Platform type |
+
+<h3> Lines: </h3>
+
+`Lines` is an array of objects with information about lines.
+
+Fields in the very next table exist in every stations' json.
+
+| Fields | Value | Meaning |
+| ------------- | ------------- | ------------- |
+| local_name  | String  | Local name of the line |
+| intl_name | String | Name of the line in English |
+| color | String | Line's color |
+| id | Number | ID of the line |
+| lineTransfers | Array\<Number> | Array with lines' IDs with which the line has intersections |
+
+
+<h2 id="usage">How to use:</h2>
 
 > npm i metrostations
 
 > import {Moscow} from 'metrostations' <br />
 > const MoscowStations = Moscow.stations <br />
-> const MoscowLines = Moscow.lines
+> const MoscowLines = Moscow.lines <br />
+> <br />
+> // your code goes here... 🚇
 
-<h2 id="work-in-progress">Work in progress</h2>
+<h2 id="work-in-progress">Future updates:</h2>
 Except the <a href="#cities-in-progress">cities in progress</a> part, 
 we also neeed to write tests: <br>
 <ol>
