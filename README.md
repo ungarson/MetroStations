@@ -83,7 +83,11 @@ Fields in the very next table exist in every lines.json.
 
 <h2 id="usage">How to use:</h2>
 
+<h3> Download this super-duper repository </h3>
+
 > npm i metrostations
+
+<h3> Use it in your JS code </h3>
 
 > import {Moscow} from 'metrostations' <br />
 > const MoscowStations = Moscow.stations <br />
