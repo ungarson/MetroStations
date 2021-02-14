@@ -6,9 +6,10 @@ JSONs of metro stations and lines.
 1. <a href="#what-you-can-do">What you can do</a> <br>
 2. <a href="#available-cities">Available cities</a> <br>
 3. <a href="#cities-in-progress">Cities in progress</a> <br>
-3. <a href="#usage">Usage</a> <br>
-4. <a href="#work-in-progress">Work in progress</a> <br>
-5. <a href="#anything-missing">Anything missing?</a>
+4. <a href="#docs">Docs</a> <br>
+5. <a href="#usage">How to use</a> <br>
+6. <a href="#work-in-progress">Future updates</a> <br>
+7. <a href="#anything-missing">Anything missing?</a>
 
 <h2 id="what-you-can-do">What you can do:</h2>
 <ul>
