@@ -59,7 +59,7 @@ Fields in the very next table exist in every stations' json.
 | lineTransfers | Array\<Number> | Array with lines' IDs with which the station has the intersection |
 | stationTransfers | Array\<Number> | Array with stations' IDs with which the station has the intersection |
 
-Fields in the very next table exist only is some stations' json.
+Fields in the very next table exist only is some stations.json.
 
 | Fields | Value | Meaning |
 | ------------- | ------------- | ------------- |
@@ -70,7 +70,7 @@ Fields in the very next table exist only is some stations' json.
 
 `Lines` is an array of objects with information about lines.
 
-Fields in the very next table exist in every lines' json.
+Fields in the very next table exist in every lines.json.
 
 | Fields | Value | Meaning |
 | ------------- | ------------- | ------------- |
