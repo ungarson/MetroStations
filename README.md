@@ -46,7 +46,7 @@ So, in the case of Moscow we don't include neither monorail nor MCD.
 
 `Stations` is an array of objects with information about stations.
 
-Fields in the very next table exist in every stations' json.
+Fields in the very next table exist in every stations.json.
 
 | Fields | Value | Meaning |
 | ------------- | ------------- | ------------- |
@@ -59,7 +59,7 @@ Fields in the very next table exist in every stations' json.
 | lineTransfers | Array\<Number> | Array with lines' IDs with which the station has the intersection |
 | stationTransfers | Array\<Number> | Array with stations' IDs with which the station has the intersection |
 
-Fields in the very next table exist only is some stations.json.
+Fields in the very next table exist only in some stations.json.
 
 | Fields | Value | Meaning |
 | ------------- | ------------- | ------------- |
