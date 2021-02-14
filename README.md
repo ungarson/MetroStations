@@ -70,7 +70,7 @@ Fields in the very next table exist only is some stations' json.
 
 `Lines` is an array of objects with information about lines.
 
-Fields in the very next table exist in every stations' json.
+Fields in the very next table exist in every lines' json.
 
 | Fields | Value | Meaning |
 | ------------- | ------------- | ------------- |
